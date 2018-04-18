@@ -11,7 +11,7 @@ public class Sample {
 		list.add("Priya");
 		removeElements();
 	}
-	private static void removeElement() {
+	private static void removeElements() {
 		// TODO Auto-generated method stub
 		
 	}
