@@ -9,6 +9,10 @@ public class Sample {
 		list.add("Krish");
 		list.add("Ajith");
 		list.add("Priya");
+		removeElements();
+	}
+	private static void removeElements() {
+		// TODO Auto-generated method stub
 		
 	}
 }
